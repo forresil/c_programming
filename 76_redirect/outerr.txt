@@ -1,0 +1,1 @@
+ls: Zugriff auf /temp3 nicht möglich: Datei oder Verzeichnis nicht gefunden

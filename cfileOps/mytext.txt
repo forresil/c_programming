@@ -1,0 +1,4 @@
+insgesamt 4
+drwxrwxrwx 2 J J 0 Feb 18 14:17 .
+drwxrwxrwx 2 J J 0 Feb 18 14:16 ..
+-rw-rw-rw- 1 J J 0 Feb 18 14:17 mytext.txt

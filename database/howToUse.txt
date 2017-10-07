@@ -1,0 +1,13 @@
+The Databank example creates a databank file "data1" in his directory.
+
+Insert elements to this databank by typing: 
+$./foo insert [idx] [name] [lastName] [age] by. ex: $./foo insert 5 Adam Smith 23 
+
+Print the element on the screen by typing:
+$./foo print [idx] by. ex: $./foo print 5
+
+Delete an element of the databank by typing:
+$./foo delete [idx] by ex.: $./foo delete 5
+
+Take a look on the data stored in the databank file "data1" by typing:
+$./oc -c data1

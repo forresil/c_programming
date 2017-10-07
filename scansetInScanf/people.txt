@@ -1,0 +1,6 @@
+Adam Smith,23,Seattle,WA
+Robert Bailey,32,Orlando,FL
+Steve Brooks,21,Huston,TX
+Lauren Moore,24,Los Angeles,CA
+Angela Lee,42,Phoenix,AZ
+Josh Wong,37,Honolulu,HI
